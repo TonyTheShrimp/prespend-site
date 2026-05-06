@@ -1,3 +1,8 @@
+---
+layout: default
+title: 隐私政策 · 花前记账
+permalink: /privacy/
+---
 # 隐私政策 · 花前记账
 
 **最后更新:** 2026-05-06
